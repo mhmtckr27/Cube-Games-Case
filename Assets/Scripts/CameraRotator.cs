@@ -33,6 +33,7 @@ public class CameraRotator : MonoBehaviour
 
     private void FinishLine_OnFinishLine()
     {
+        Debug.Log("ASDKASFKSAFKASFKSAKSAF");
         Rotate(true);
     }
 
